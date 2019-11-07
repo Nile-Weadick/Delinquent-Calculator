@@ -1,2 +1,3 @@
 # Delinquent-Calculator
 C# Windows application to aid in the calculation of reconnect charges for delinquent electric customers.
+When customers fail to pay their electric bill, the utility frequently disconnects service and requires full payment up to the current meter reading before reconnection. Use the following application interface design to construct a program to aid in this problem. Intended users of the application include customer service representatives who speak with field service workers who are onsite and to collect bills and reconnect the customer's electric service and also field service workers using the application on a laptop.
